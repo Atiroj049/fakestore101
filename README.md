@@ -11,7 +11,7 @@ get_product.php → ดึงสินค้าตาม ID
 ![Get_single](images/Get_single.png)
 
 update_product.php → อัปเดตสินค้า
-![update](images/update.png)
+![update](images/Update.png)
 
 delete_product.php → ลบสินค้า
-![delete](images/delete.png)
+![delete](images/Delete.png)
